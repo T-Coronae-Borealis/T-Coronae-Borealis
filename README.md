@@ -1,4 +1,14 @@
 Greetings! I’m @T-Coronae-Borealis
+
+/*Below is a fun little puzzle written in Java*/
+
+public.static.void mystery(String code){
+  int count = 0;
+  while(count < 29){
+    System.out.println(code.subString(count, count + 29));
+    count ++;
+  }
+}
   
 
 <!---
