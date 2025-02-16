@@ -3,11 +3,17 @@ Greetings! I’m @T-Coronae-Borealis
 /*Below is a fun little puzzle written in Java*/
 
 public static void mystery(String code, int sqr){
+
   int count = 0;
+  
   while(count < sqr){
+  
     System.out.println(code.substring(count, count + sqr));
+    
     count ++;
+    
   }
+  
 }
   
 
