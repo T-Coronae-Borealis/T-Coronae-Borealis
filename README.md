@@ -1,5 +1,5 @@
-- Greetings! I’m @T-Coronae-Borealis
-- 
+Greetings! I’m @T-Coronae-Borealis
+  
 
 <!---
 T-Coronae-Borealis/T-Coronae-Borealis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
